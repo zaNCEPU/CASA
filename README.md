@@ -1,5 +1,5 @@
 # CASA-Cost-effective_EV-Charging-Scheduling-based-on-Deep-Reinforcement-Learning
-This is the offical implementation of the published papers "CASA: Cost-effective EV Charging Scheduling based on Deep Reinforcement Learning"
+This is the code repository for the forthcoming publication titled "CASA: Cost-effective EV Charging Scheduling based on Deep Reinforcement Learning"
 
 ## Abstract
 
